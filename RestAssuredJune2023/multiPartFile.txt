@@ -1,0 +1,118 @@
+{
+    "workspaces": [
+        {
+            "id": "3867ba57-a22f-461f-8832-eaf34cf777d9",
+            "name": "Team Workspace",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "4ea371bf-217e-42bd-9e16-f7f85d14c49a",
+            "name": "DecTeamAPI",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "74b53054-19f3-4f05-8501-eb6dac9c2b87",
+            "name": "APIRestAssured2021",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "a28eb99a-0263-4271-a53a-55060a0ad854",
+            "name": "Gravity",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "17fa7e39-5a1a-4d9e-be37-f48da152889d",
+            "name": "DecAPIGoRest",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "1fcd1579-373b-4f27-898e-b4913dd7754c",
+            "name": "My Workspace",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "9f1a6de3-bbda-4413-bf48-c8bdd7554983",
+            "name": "JAN2021",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "8a84ede7-184d-4c86-b395-81becbc51cab",
+            "name": "PracticeWorkSpaceAPI",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "c6cc77bc-6143-4ca2-8a45-031594c79f24",
+            "name": "testSpace",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "1fdd6d6f-37a0-4ab6-b495-a3fa022410fc",
+            "name": "testJsonFile",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "b8a73440-d4ce-4c0c-8ce1-ec3cf08932f7",
+            "name": "MapWorkSpace",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "6cfcfc8e-b943-414b-8469-fed8fe9d2283",
+            "name": "RestAssuredObjectMapper",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "cc56dbd3-5739-488e-be1f-54621311b483",
+            "name": "PojoSpaceV1",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "a657e105-f2e2-44ee-a75f-0f21b6c0f3d4",
+            "name": "PojoSpaceV2",
+            "type": "personal",
+            "visibility": "personal"
+        },
+        {
+            "id": "e4854366-a80c-4789-9338-fd7a8dccc762",
+            "name": "Demo Workspace",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "fc333604-37c1-4d57-b5ca-721e17c85603",
+            "name": "Demo Workspace1",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "ba1481ae-5377-44c3-ad7c-17008c6b3d4c",
+            "name": "Demo Workspace",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "9f78b3c2-9b62-43ef-a057-d17584c084d9",
+            "name": "Map WorkSpace",
+            "type": "team",
+            "visibility": "team"
+        },
+        {
+            "id": "dd4d240d-3141-42a3-88f0-592547109007",
+            "name": "Map WorkSpace",
+            "type": "team",
+            "visibility": "team"
+        }
+    ]
+}

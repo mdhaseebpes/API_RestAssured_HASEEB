@@ -1,0 +1,8 @@
+{
+  "workspace": {
+    "name": "Demo Workspace",
+    "type": "team",
+    "description": "This workspace contains all your team's collections and environments that were previously in the Team Library, as well as any monitors, mock servers or integrations that were shared with the team."
+
+  }
+}
